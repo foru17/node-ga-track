@@ -1,0 +1,16 @@
+{
+  "name": "node-ga-track",
+  "version": "1.0.0",
+  "description": "Track Web with GA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@foru17",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "koa": "^1.0.0",
+    "universal-analytics": "^0.3.9"
+  }
+}
